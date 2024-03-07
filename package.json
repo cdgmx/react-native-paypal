@@ -1,6 +1,6 @@
 {
-  "name": "react-native-paypal",
-  "version": "4.1.0",
+  "name": "react-native-paypal-vtbl",
+  "version": "4.1.3",
   "description": "React Native library that implements PayPal Checkout flow using purely native code",
   "main": "index.js",
   "typings": "index.d.ts",
@@ -17,12 +17,12 @@
     "ios",
     "payment"
   ],
-  "author": "Smarkets Ltd",
+  "author": "cdgmx",
   "license": "MIT",
-  "homepage": "https://github.com/smarkets/react-native-paypal#readme",
+  "homepage": "https://github.com/cdgmx/react-native-paypal#readme",
   "repository": {
     "type": "git",
-    "url": "git@github.com:smarkets/react-native-paypal.git"
+    "url": "git@github.com:cdgmx/react-native-paypal.git"
   },
   "peerDependencies": {
     "react-native": ">=0.41.2"

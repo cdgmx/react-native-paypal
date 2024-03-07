@@ -56,5 +56,5 @@ dependencies {
     api 'com.facebook.react:react-native:+'
 
     compileOnly 'com.braintreepayments.api:braintree:3.+'
-    compileOnly 'com.braintreepayments.api:data-collector:3.+'
+    compileOnly 'com.braintreepayments.api:data-collector:3.21.0'
 }
